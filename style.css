@@ -32,6 +32,11 @@ ul .octocat {
 	bottom:5px;
 	border-radius: 5px;
 }
+
+/*.authors img:nth-child(2){
+	padding-right: 2px;
+}*/
+
  .authors  {
 	list-style: none;
 }
