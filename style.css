@@ -49,6 +49,7 @@ ul .authors {
 	top:10px;
 	float: right;
 	font-weight: bold;
+	font-size: 14px;
 }
 
 .image-caption img{
@@ -58,6 +59,7 @@ ul .authors {
 span {
 	color:#646366;
 	font-family: helvetica;
+	font-size: 12px;
 }
 
 a {
