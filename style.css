@@ -8,6 +8,8 @@
 .octocat {
 	float: left;
 }
+
+
 .octocat ul {
 	display: inline;
 }
@@ -48,7 +50,7 @@ ul .authors li {
 }
 
 ul .authors {
-	padding:1px;
+	padding:0px;
 }
 .image-number {
 	position: relative;
@@ -85,4 +87,10 @@ span {
 	font-size: 14px;
 }
 
+.image-footer {
+	padding-bottom:42px;
+	border-bottom:2px solid #dfdfdf;
+	
+
+}
 
