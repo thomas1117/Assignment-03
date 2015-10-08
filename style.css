@@ -19,10 +19,13 @@ ul .octocat {
 }
 
 
+
 .authors img{
 	height:20px;
 	width:20px;
 	float: right;
+	position: relative;
+	bottom:2px;
 }
  .authors  {
 	list-style: none;
@@ -41,8 +44,10 @@ ul .authors {
 	position: relative;
 	top:10px;
 	float: left;
-	color:646366;
+	color:#CCCAC8;
 	font-weight: bold;
+	font-size: 15px;
+
 }
 .image-caption {
 	position: relative;
@@ -50,6 +55,7 @@ ul .authors {
 	float: right;
 	font-weight: bold;
 	font-size: 14px;
+	border-bottom: 20px;
 }
 
 .image-caption img{
@@ -59,11 +65,14 @@ ul .authors {
 span {
 	color:#646366;
 	font-family: helvetica;
-	font-size: 12px;
+	font-size: 14px;
 }
 
-a {
+ a {
 	text-decoration: none;
 	font-weight: bold;
 	color: black;
+	font-size: 14px;
 }
+
+
